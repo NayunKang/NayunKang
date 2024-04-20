@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NayunKang
+- 👀 I’m interested in CS and Marketing
+- 🌱 I’m currently learning C++ and Java
+- 📫 How to reach me : Email me "nkang39@wisc.edu"
+- 😄 Pronouns: She/Her
